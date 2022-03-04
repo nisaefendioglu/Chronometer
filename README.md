@@ -1,4 +1,13 @@
 # Chronometer
+## Google Play Store :
+
+[![Get it on Google Play](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=com.nisaefendioglu.chronometerapp&hl=tr)<br>
+<br>
+
+<img width="375" alt="Screen Shot 2022-01-09 at 17 12 03" src="https://user-images.githubusercontent.com/48391281/156778033-9789b7b9-f8de-496f-926e-912128071865.png">
+<br>
+<br>
+
 Screenshots of the app :
 <br><br><br>
 
